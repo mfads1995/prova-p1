@@ -31,8 +31,8 @@ public class Data {
         return this.ano;
     }
     
-    public void setDia(int d){
-        this.dia = d;     
+    public void setDia(int di){
+        this.dia = di;     
     }
     public void setMes(int m){
         this.mes = m;
